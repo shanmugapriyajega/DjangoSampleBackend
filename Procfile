@@ -1,0 +1,1 @@
+gunicorn demoproject.wsgi:application
