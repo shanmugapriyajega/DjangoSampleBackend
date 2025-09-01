@@ -1,0 +1,47 @@
+[
+{
+    "model": "rest_app.student_table",
+    "pk": 1,
+    "fields": {
+        "name": "kavi",
+        "email": "kavi@gmail.com",
+        "std": "VII"
+    }
+},
+{
+    "model": "rest_app.student_table",
+    "pk": 3,
+    "fields": {
+        "name": "mani",
+        "email": "mani@gmail.com",
+        "std": "IX"
+    }
+},
+{
+    "model": "rest_app.student_table",
+    "pk": 4,
+    "fields": {
+        "name": "abi",
+        "email": "abi@gmail.com",
+        "std": "X"
+    }
+},
+{
+    "model": "rest_app.student_table",
+    "pk": 5,
+    "fields": {
+        "name": "kanmani",
+        "email": "kanmani@gmail.com",
+        "std": "XI"
+    }
+},
+{
+    "model": "rest_app.student_table",
+    "pk": 6,
+    "fields": {
+        "name": "surya",
+        "email": "surya@gmail.com",
+        "std": "XI"
+    }
+}
+]
